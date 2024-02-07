@@ -5,7 +5,7 @@ Projeto orientado pela Rocketseat
 ![cover](./public/cover.png)
 
 ---
-| [Link Notion](https://efficient-sloth-d85.notion.site/NLW-14-Expert-9e11ff472de64b08a5f9e277a20c3ecc) | [Link Figma](https://www.figma.com/community/file/1336456128647909148/nlw-expert-notes) |
+| [Link Notion](https://efficient-sloth-d85.notion.site/NLW-14-Expert-9e11ff472de64b08a5f9e277a20c3ecc) | [Link Figma](https://www.figma.com/file/VUQz6VsIidzPc0Jwyac6tP/NLW-expert-•-Notes-(Community)?type=design&node-id=2-287&mode=design&t=HlxfUJ0EpsdMmbeX-0) |
 
 ---
 
@@ -27,3 +27,7 @@ npx tailwindcss init -p
 ```sh
 npm install @radix-ui/react-dialog date-fns lucid-react
 ```
+
+## TO-DO
+
+- [ ] Componentizar o modal Dialog para ambos os componentes.
