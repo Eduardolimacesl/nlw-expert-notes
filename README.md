@@ -28,9 +28,10 @@ npx tailwindcss init -p
 npm install @radix-ui/react-dialog date-fns lucid-react sonner
 ```
 
-## TO-DO
+## TO-DO list
 
 - [x] Feat: adicionar a lógica de aparecer o toast apenas se o estado content mudar;
 - [ ] Gravar e apresentar a nota;
 - [ ] Feat: Filtrar notas;
 - [ ] Componentizar o modal Dialog para ambos os componentes;
+- [ ] Adicionar aplicativo ao `eduardolima.dev.br` como um link;
