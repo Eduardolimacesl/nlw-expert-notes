@@ -25,7 +25,7 @@ npx tailwindcss init -p
 ## Instalando lib adicionais
 
 ```sh
-npm install @radix-ui/react-dialog date-fns lucid-react
+npm install @radix-ui/react-dialog date-fns lucid-react sonner
 ```
 
 ## TO-DO
