@@ -22,9 +22,8 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
-## Instalando o Radix
+## Instalando lib adicionais
 
 ```sh
-npm install @radix-ui/react-dialog  
+npm install @radix-ui/react-dialog date-fns lucid-react
 ```
-
