@@ -30,7 +30,7 @@ npm install @radix-ui/react-dialog date-fns lucid-react sonner
 
 ## TO-DO
 
-- [ ] Componentizar o modal Dialog para ambos os componentes;
-- [ ] Feat: adicionar a lógica de aparecer o toast apenas se o estado content mudar;
+- [x] Feat: adicionar a lógica de aparecer o toast apenas se o estado content mudar;
 - [ ] Gravar e apresentar a nota;
 - [ ] Feat: Filtrar notas;
+- [ ] Componentizar o modal Dialog para ambos os componentes;

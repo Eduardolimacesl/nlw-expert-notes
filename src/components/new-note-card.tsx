@@ -21,7 +21,10 @@ export function NewNoteCard() {
 
   function handleSaveNote(event: FormEvent) {
     event.preventDefault()
-    toast.success('Nota criada com sucesso!')
+
+    if (content !== "") {
+      toast.success('Nota criada com sucesso!')
+    }
   }
 
   return (
